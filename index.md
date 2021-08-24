@@ -5,7 +5,7 @@
 ## Personal Information
 Surname(s) / First name(s): Shah / Viransh
 
-Email(s): [shahv47(at)mcmaster(dot)ca](mailto:shahv47@mcmaster.ca)
+Email(s): [shahv47@mcmaster.ca](mailto:shahv47@mcmaster.ca)
 
 Date of birth: August 20, 2003
 
