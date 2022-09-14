@@ -32,13 +32,10 @@ I am a first year computer science student at McMaster in the Faculty of Enginee
 <table>
     <tr>
         <td>
-            <a href="https://github.com/yourname" target="blank"><i class="fab fa-github fa-lg"></i> GitHub</a>
+            <a href="https://github.com/shahviransh" target="blank"><i class="fab fa-github fa-lg"></i> GitHub</a>
         </td>
         <td>
-            <a href="https://linkedin.com/youraccount" target="blank"><i class="fab fa-linkedin fa-lg"></i> Linkedin</a>
-        </td>
-        <td>
-            <a href="https://twitter.com/youraccount" target="blank"><i class="fab fa-twitter-square fa-lg"></i> Twitter</a>
+            <a href="https://linkedin.com/viransh-shah" target="blank"><i class="fab fa-linkedin fa-lg"></i> Linkedin</a>
         </td>
     </tr>
 </table>
