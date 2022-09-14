@@ -35,7 +35,7 @@ I am a first year computer science student at McMaster in the Faculty of Enginee
             <a href="https://github.com/shahviransh" target="blank"><i class="fab fa-github fa-lg"></i> GitHub</a>
         </td>
         <td>
-            <a href="https://linkedin.com/viransh-shah" target="blank"><i class="fab fa-linkedin fa-lg"></i> Linkedin</a>
+            <a href="https://linkedin.com/in/viransh-shah" target="blank"><i class="fab fa-linkedin fa-lg"></i> Linkedin</a>
         </td>
     </tr>
 </table>
